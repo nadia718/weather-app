@@ -45,3 +45,5 @@ Nadia
 ---
 
 Built with using HTML, CSS, JavaScript, and Weather API.
+
+![Weather App](./screenshots/screenshots/weather-app.png)
